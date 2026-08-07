@@ -9,11 +9,7 @@ git clone https://github.com/mplshassan/cubed
 cd cubed
 open index.html
 ```
-## Example
-
-<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/c06f7cae-eb9e-407f-b786-79da7046a082" />
-
-
+## Example 
+![Cubed Example](assets/demo.gif)
 ## Credits
 Built by Mustafa Hassan
-
