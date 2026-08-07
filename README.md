@@ -10,6 +10,6 @@ cd cubed
 open index.html
 ```
 ## Example 
-![Cubed Example](assets/demo.gif)
+![Cubed Example](assets/cubed_example.gif)
 ## Credits
 Built by Mustafa Hassan
